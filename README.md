@@ -2,7 +2,7 @@
 
 ![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
 
-<h1>This project is a solution to the **Frontend Mentor Huddle Landing Page** challenge, featuring a unique design with curved sections created using CSS and HTML. The design incorporates pseudo-elements and CSS positioning, giving the page smooth, flowing transitions between sections.</h1>
+This project is a solution to the **Frontend Mentor Huddle Landing Page** challenge, featuring a unique design with curved sections created using CSS and HTML. The design incorporates pseudo-elements and CSS positioning, giving the page smooth, flowing transitions between sections.
 
 
 ## Table of Contents
