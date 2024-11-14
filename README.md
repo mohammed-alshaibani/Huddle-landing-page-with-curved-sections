@@ -47,7 +47,7 @@ This project is a solution to the **Frontend Mentor Huddle Landing Page** challe
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/mohammed-alshaibani/Huddle-landing-page-with-curved-sections.git
-   cd huddle-landing-page
+   cd Huddle-landing-page-with-curved-sections
 Open the Project: Open index.html in a browser to view the landing page.
 
 Edit Styles: Customize colors, fonts, and other styling in css/style.css as desired.
