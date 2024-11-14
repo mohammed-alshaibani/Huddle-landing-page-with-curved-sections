@@ -46,7 +46,7 @@ This project is a solution to the **Frontend Mentor Huddle Landing Page** challe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/huddle-landing-page.git
+   git clone https://github.com/mohammed-alshaibani/Huddle-landing-page-with-curved-sections.git
    cd huddle-landing-page
 Open the Project: Open index.html in a browser to view the landing page.
 
