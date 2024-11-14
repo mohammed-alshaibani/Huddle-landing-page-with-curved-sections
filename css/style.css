@@ -195,8 +195,10 @@ figure img {
 .main__section-div h2 {
   padding-bottom: var(--main-padding);
 }
+.footer__background-img {
+  margin-bottom: -1rem;
+}
 /*Footer*/
-
 .footer__section {
   position: relative;
   padding: 1rem;
@@ -206,7 +208,6 @@ figure img {
   align-items: center;
   background: #00252d;
   color: #fff;
-  margin-top: -0.2rem;
 }
 
 .footer__section .footer__section-info,
